@@ -1,8 +1,8 @@
 {
-  "Film": "The Shawshank Redemption",
-  "Serial": "Friends",
-  "Food" : "Italian",
-  "Season" : "Summer",
-  "Country" : "India"
+  "film": "The Shawshank Redemption",
+  "serial": "Friends",
+  "food" : "Italian",
+  "season" : "Summer",
+  "country" : "India"
  
   }
